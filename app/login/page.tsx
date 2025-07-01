@@ -123,15 +123,7 @@ export default function LoginPage() {
               </Button>
             </form>
 
-            <div className="mt-8 pt-6 border-t border-slate-200">
-              <div className="text-center">
-                <p className="text-sm text-slate-500 mb-2">Demo Credentials</p>
-                <div className="bg-slate-50 rounded-lg p-3">
-                  <p className="text-sm font-mono text-slate-700">rao@rao.com</p>
-                  <p className="text-sm font-mono text-slate-700">12345</p>
-                </div>
-              </div>
-            </div>
+           
           </CardContent>
         </Card>
       </div>
